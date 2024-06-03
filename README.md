@@ -21,6 +21,11 @@ I have followed below steps:
 9. Assess trained model performance on the testing dataset
 
 I used an image dataset containing 5000 color images of lung squamous cell carcinoma and 5000 color images of lung adenocarcinoma from the LC25000 dataset, which is freely available for ML researchers.
+
+This dataset can be downloaded from the link below:
+
+https://academictorrents.com/details/7a638ed187a6180fd6e464b3666a6ea0499af4af
+
 Since I was using the Keras flow_from_directory method from the ImageDataGenerator class to generate batches of tensor image data for our model, I needed to organize the dataset into a specific directory 
 structure.
 
