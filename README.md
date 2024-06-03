@@ -22,7 +22,7 @@ I have followed below steps:
 
 I used an image dataset containing 5000 color images of lung squamous cell carcinoma and 5000 color images of lung adenocarcinoma from the LC25000 dataset, which is freely available for ML researchers.
 
-This dataset can be downloaded from the link below:
+**This dataset can be downloaded from the link below:**
 
 https://academictorrents.com/details/7a638ed187a6180fd6e464b3666a6ea0499af4af
 
