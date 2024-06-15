@@ -34,7 +34,7 @@ followed by a ReLU activation function to introduce non-linearity. After the thi
 is then fed into two fully connected (Dense) layers with 128 neurons and a sigmoid activation function in the final layer for binary classification. A dropout layer with a dropout rate of 0.2 is added 
 after the first Dense layer to prevent overfitting. The model overrides the get_config and from_config methods to enable model serialization and deserialization.
 
-In summary, the trained model was able to classify previously unseen (testing dataset) non-small cell lung carcinoma images into squamous cell carcinoma and adenocarcinoma with 96% accuracy.
+In summary, the trained model was able to classify previously unseen (testing dataset) non-small cell lung carcinoma images into squamous cell carcinoma and adenocarcinoma with 98% accuracy.
 
 
 
